@@ -10,12 +10,6 @@
 
 ---
 
-## 🖼️ Preview
-
-![DigiTools Preview](../Home.png)
-
----
-
 ## 🛠️ Technologies Used
 
 | Technology         | Purpose                          |
