@@ -6,7 +6,7 @@
 
 ## 🚀 Live Demo
 
-[🔗 View Live Site](#) &nbsp;|&nbsp; [📁 GitHub Repository](#)
+[🔗 View Live Site](https://digitools-nu.vercel.app/) &nbsp;|&nbsp; [📁 GitHub Repository](https://github.com/saidurrahmanratul/digitools)
 
 ---
 
